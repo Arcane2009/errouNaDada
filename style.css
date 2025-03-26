@@ -21,19 +21,19 @@ header{
 
 .aboboras{
     width: 1536px;
-    height: 180px;
+    height: 100px;
     margin-left: 0px;
 }
 
-.botao1{
+.benefícios{
     width: 150px;
     height: 50px;
     border-radius: 5px;
-    margin: 20px 20px 0px 150px;
+    margin-left: -420px;
 
 }
 
-.botao1{
+.benefícios{
     background-color: #FF00D9
 }
 
@@ -71,7 +71,47 @@ footer{
 }
 
 .carrinho{
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     margin-left: 450px;
 }
+
+.flecha{
+    width: 120px;
+    height: 120px;
+    margin-left: 200px;
+    margin-bottom: -30px;
+}
+
+.caixão{
+    width: 120px;
+    height: 120px;
+    margin-left: -80px;
+    margin-bottom: -190px;
+}
+
+.star{
+    width: 120px;
+    height: 120px;
+    margin-left: -200px;
+    margin-bottom: -120px;
+}
+
+.abo1{
+    width: 50px;
+    height: 50px;
+    margin-left: -20px;
+}
+
+.abo2{
+    width: 60px;
+    height: 60px;
+    margin-left: -40px;
+    }
+
+    .abo3{
+        width: 70px;
+        height: 70px;
+        margin-left: -5px;
+        }
+    
