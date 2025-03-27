@@ -16,7 +16,8 @@ header{
 .errou{
         width: 10%;
         height: 10%;
-        margin-left: 650px;
+        margin-left: 690px;
+        margin-bottom: -15px;
 }
 
 .aboboras{
@@ -42,11 +43,11 @@ strong{
 }
 
 h1{
-    margin-left: 550px;
+    margin-left: 600px;
 }
 
 h2{
-    margin-left: 475px;
+    margin-left: 525px;
 }
 
 ul{
@@ -56,7 +57,7 @@ ul{
 }
 
 footer{
-    margin-left: 525px;
+    margin-left: 575px;
 }
 
 .text_bene{
@@ -100,7 +101,7 @@ footer{
 .abo1{
     width: 50px;
     height: 50px;
-    margin-left: -20px;
+    margin-left: -30px;
 }
 
 .abo2{
@@ -112,6 +113,45 @@ footer{
     .abo3{
         width: 70px;
         height: 70px;
-        margin-left: -5px;
+        margin-left: -50px;
         }
     
+        .abo4{
+            width: 70px;
+            height: 70px;
+            margin-left: -520px;
+            }
+
+            .abo5{
+                width: 60px;
+                height: 60px;
+                margin-left: -50px;
+                }
+        
+                .abo6{
+                    width: 50px;
+                    height: 50px;
+                    margin-left: -40px;
+                }
+                
+.benefícios_b{
+    margin-left: 175px;
+    font-size: 20px;
+    margin-top: -230px;
+}
+
+.preço{
+    margin-left: 525px;
+    font-size: 20px;
+    margin-top: 45px;
+}
+
+.preço2{
+    margin-left: 520px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.botao1{
+    background-color: #0C00E6;
+}
